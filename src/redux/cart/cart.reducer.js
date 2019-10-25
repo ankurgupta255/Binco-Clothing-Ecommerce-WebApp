@@ -1,6 +1,6 @@
 import CartActionTypes from './cart.types';
 import {addItemToCart, removeItemFromCart} from './cart.utils';
-import { Z_FILTERED } from 'zlib';
+// import { Z_FILTERED } from 'zlib';
 
 const INITIAL_STATE={
     hidden: true,
