@@ -13,15 +13,6 @@ import {setCurrentUser} from './redux/user/user.actions';
 import {selectCurrentUser} from './redux/user/user.selectors';
 import {createStructuredSelector} from 'reselect';
 
-
-// const HatsPage=()=>{
-//   return(
-//     <div>
-//       <h1>HATS PAGE</h1>
-//     </div>
-//   );
-// }
-
 class App extends React.Component {
   /*constructor(){
       super()
